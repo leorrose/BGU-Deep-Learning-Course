@@ -2,10 +2,10 @@
 
 Ben Gurion University "Deep Learning (372.2.6101)" course assignments & solutions
 
-- Assignment & solution 1 (Naive Bayes) - [Notebook](Assignment_1)
-- Assignment & solution 2 (Ensemble Learning) - [Notebook](Assignment_2)
-- Assignment & solution 3 (Unsupervised Learning) - [Notebook](Assignment_3)
-- Assignment & solution 4 (Clinical Trial Classification) - [Notebook](Assignment_4)
+- Assignment & solution 1 (Neural Network from scratch) - [Guidelines](Assignment_1/Assignment_Guidelines.pdf) [Solution Code](Assignment_1/Assignment_Solution_Code.ipynb) [Solution Report](Assignment_1/Assignment_Solution_Report.pdf) 
+- Assignment & solution 2 (Facial Recognition using one-shot learning) - [Guidelines](Assignment_2/Assignment_Guidelines.pdf) [Solution Code](Assignment_2/Assignment_Solution_Code.ipynb) [Solution Report](Assignment_2/Assignment_Solution_Report.pdf) 
+- Assignment & solution 3 () - [Guidelines](Assignment_3/Assignment_Guidelines.pdf) [Solution Code](Assignment_3/Assignment_Solution_Code.ipynb) [Solution Report](Assignment_3/Assignment_Solution_Report.pdf) 
+- Assignment & solution 4 () - [Guidelines](Assignment_4/Assignment_Guidelines.pdf) [Solution Code](Assignment_4/Assignment_Solution_Code.ipynb) [Solution Report](Assignment_4/Assignment_Solution_Report.pdf) 
 
 Please let me know if you find bugs or something that needs to be fixed.
 
